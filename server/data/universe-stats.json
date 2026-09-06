@@ -1,6 +1,6 @@
 {
   "_comment": "Per-stock daily stats (previous close + 52-week range) sourced from Yahoo v8 chart meta. Auto-refreshed daily by the refresh bot; do not hand-edit. Keep symbols in sync with PUBLIC_COMPANIES.",
-  "generatedAt": "2026-09-05T10:48:39.591Z",
+  "generatedAt": "2026-09-06T11:10:59.203Z",
   "stats": {
     "NVDA": {
       "prevClose": 228.45,
@@ -19,7 +19,7 @@
     },
     "GOOGL": {
       "prevClose": 342.26,
-      "low52w": 231.9,
+      "low52w": 233.23,
       "high52w": 408.61
     },
     "AMZN": {
@@ -220,7 +220,7 @@
     "ADP": {
       "prevClose": 283.53,
       "low52w": 188.16,
-      "high52w": 302.68
+      "high52w": 299.22
     },
     "AIG": {
       "prevClose": 76.86,
@@ -229,7 +229,7 @@
     },
     "AMAT": {
       "prevClose": 435.91,
-      "low52w": 158.82,
+      "low52w": 161.75,
       "high52w": 739.67
     },
     "AMGN": {
@@ -240,7 +240,7 @@
     "AMT": {
       "prevClose": 177.75,
       "low52w": 160.06,
-      "high52w": 199.4
+      "high52w": 199.13
     },
     "AXP": {
       "prevClose": 329.82,
@@ -325,7 +325,7 @@
     "DIS": {
       "prevClose": 107.16,
       "low52w": 92.19,
-      "high52w": 119.78
+      "high52w": 119.05
     },
     "DUK": {
       "prevClose": 121.4,
@@ -444,7 +444,7 @@
     },
     "MS": {
       "prevClose": 217.15,
-      "low52w": 146.29,
+      "low52w": 147.25,
       "high52w": 232.25
     },
     "MU": {
@@ -594,7 +594,7 @@
     },
     "ASML": {
       "prevClose": 1646.19,
-      "low52w": 766.24,
+      "low52w": 786.75,
       "high52w": 1999.96
     },
     "NVO": {
